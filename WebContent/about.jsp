@@ -28,7 +28,7 @@
                               <p align="justify"> APANA-BANK, c.p. is affiliated to the Central Board of Bank (CBB), which is the largest educational board in the country. It is recognized by the Department of Education, Govt. of NCT Delhi and the Ministry of HRD, Govt. of India. Over 5000 BANKs in India, with over 80,000 students, are members of the Board. </p>
                               <p align="justify">                                The BANK is also affiliated to the Indian Public BANKs' Conference (IPSC), and the National Progressive BANKs' Conference (NPSC). The members of these organisations include some of the premier BANKs in the country.</p>
                               <p align="justify"> Life at DPSRKP centres on a shared commitment to academic excellence, intellectual growth, art, athletics, high standards of ethical awareness, sportsmanship, and community service. The BANK's traditions and accessibility to a broad curriculum add depth to each student&rsquo;s life.<br>
-                                The BANK upholds the founders' commitment to excellence in all fields, with emphasis on its motto Service Before Self.<br>
+                                The BANK upholds the founders' commitment to excellence in all fields, with emphasis on it's motto Service Before Self.<br>
                                 </p>
                               <p align="justify" class="bodytextheading">BANK Profile</p>
                               <p align="justify"> APANA-BANK, c.p. is a co-educational day-cum-boarding BANK, with approximately 9,500 coustemer on its rolls. These children, in the Junior and Senior branches, study in the three different campuses at East of Kailash, Vasant Vihar and c.p.</p>
